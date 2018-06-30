@@ -1,0 +1,18 @@
+{
+  name: "Green Apple",
+  description: "The fruit has hard, light green skin and a crisp, juicy flesh.They go from being completely green to turning yellow when overripe.The acidity mellows significantly on ripening, and it takes on a balanced flavour.",
+  nutritionalFacts: {
+    calories: 72,
+    fiber: "",
+    vitaminD: "",
+    vitaminA: "",
+    sugar: "",
+    vitaminB: "",
+    vitaminC: ""
+  },
+  benefits: "Increases metabolism, low in fat, eliminates dark eye circles.",
+  calories: 72,
+  familyName: "Malus",
+  imageUrl: "https://www.sreemeenakshifruits.com/content/images/thumbs/0000181_green-apple_550.jpeg",
+  use: "https://www.thespruceeats.com/granny-smith-apple-pie-recipe-304281"
+}

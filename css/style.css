@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Pacifico', cursive;
+}
+
+body {
+  margin: 0;
+  background-image: url('https://wallpapercave.com/wp/EuZi4id.jpg');
+  text-align: center;
+}
+h1{
+  margin-top: 12%;
+  color:#ef94e9;
+}
+select{
+  width: 20%;
+  height: 40px;
+  font-size: 1rem;
+}
+button{
+  height: 40px;
+  font-size: 1rem;
+  border-radius: 50%;
+  background-color: #ef94e9;
+}
+section{
+  border: 1px solid #ef94e9;
+  background-color: #efeed7;
+  width: 50%;
+  margin: 5% 25%;
+
+}
