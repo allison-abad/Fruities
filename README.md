@@ -5,8 +5,7 @@ This project was built with the concept of creating a simple API that would navi
   Programming this simple API included the following:
   * Select class to create a dropbox menu containing fruit options
   * A button type for the "Submit" button
-  * <P> ,<span>, and headings were element's used to provide content
-  * <img> to display image of fruit selected by user 
+  * img to display image of fruit selected by user 
   * used function search & methods as open(), request() and onload() 
   * Incorporated conditionals 
   * Used localhost:8000 
