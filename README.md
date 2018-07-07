@@ -1,6 +1,8 @@
 # Fruities
 This project was built with the concept of creating a simple API that would navigate users to a page with nutruaitonal fruit facts upon selection they made from our drop-down box. 
 
+![screen shot 2018-07-07 at 1 41 16 pm](https://user-images.githubusercontent.com/39247861/42413289-7e85ceee-81eb-11e8-8e2c-88cbc841d753.png)
+
 ## How It's Made:
   Programming this simple API included the following:
   * Select class to create a dropbox menu containing fruit options
